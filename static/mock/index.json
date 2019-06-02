@@ -1,0 +1,207 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "https://goods1.juancdn.com/jas/190410/1/4/5cad455433b08966da5d2918_1080x418.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "https://goods4.juancdn.com/jas/190411/7/1/5caefe45b6f8ea67f92641df_1080x418.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "https://goods4.juancdn.com/jas/190411/7/1/5caefe45b6f8ea67f92641df_1080x418.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "https://goods8.juancdn.com/jas/190411/f/0/5caee2af33b089026027e3fa_1080x418.jpg"
+      }],
+    "activityleft": [{
+        "id": "0001",
+        "imgUrl": "https://s2.juancdn.com/jas/190408/d/4/5caafc04b6f8ea0a1b77798b_540x656.gif"
+      }],
+    "activityright": [{
+        "id": "0001",
+        "imgUrl": "https://goods8.juancdn.com/jas/190410/e/8/5cad626bb6f8ea79b5484869_540x328.png?imageMogr2/quality/85!/format/png"
+      },{
+        "id": "0002",
+        "imgUrl": "https://goods8.juancdn.com/jas/190329/f/c/5c9df46533b089687b5961de_540x328.png?imageMogr2/quality/85!/format/png"
+      }],
+      "ada": [{
+        "id": "0001",
+        "imgUrl": "https://s2.juancdn.com/jas/190409/6/1/5cac5648b6f8ea2fea4eeb1f_1080x364.gif"
+      }],
+      "adb": [{
+        "id": "0001",
+        "imgUrl": "https://goods7.juancdn.com/jas/180518/c/6/5afe2f0db6f8ea096f2bfb35_1080x138.png?iopcmd=convert&Q=85&dst=png"
+      }],
+      "choicenessleft": [{
+        "id": "0001",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0002",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0003",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0004",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0005",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0006",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0007",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0008",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0009",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0010",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0011",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0012",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0013",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0014",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0015",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0016",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0017",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      },{
+        "id": "0018",
+        "imgUrl": "https://goods2.juancdn.com/goods/190409/3/0/5cac4a9533b08941c403d0c8_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减15元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩3天"
+      }],
+      "choicenessright": [{
+        "id": "0001",
+        "imgUrl": "https://goods8.juancdn.com/goods/190318/e/e/5c8f87da33b08968b86a749e_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减10元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩2天"
+      },{
+        "id": "0002",
+        "imgUrl": "https://goods8.juancdn.com/goods/190318/e/e/5c8f87da33b08968b86a749e_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减10元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩1天"
+      },{
+        "id": "0003",
+        "imgUrl": "https://goods8.juancdn.com/goods/190318/e/e/5c8f87da33b08968b86a749e_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减10元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩1天"
+      },{
+        "id": "0004",
+        "imgUrl": "https://goods8.juancdn.com/goods/190318/e/e/5c8f87da33b08968b86a749e_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减10元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩1天"
+      },{
+        "id": "0005",
+        "imgUrl": "https://goods8.juancdn.com/goods/190318/e/e/5c8f87da33b08968b86a749e_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减10元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩1天"
+      },{
+        "id": "0006",
+        "imgUrl": "https://goods8.juancdn.com/goods/190318/e/e/5c8f87da33b08968b86a749e_800x800.jpg?imageMogr2/thumbnail/310x310!",
+        "logo": "https://goods5.juancdn.com/seller/170915/9/0/59bb44ea8150a1224a62fa14_180x90.png",
+        "activity": "满3件减10元",
+        "name": "微密码官方女装上新专场",
+        "day": "剩1天"
+      }]
+  }
+}

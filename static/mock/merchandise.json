@@ -1,0 +1,38 @@
+{
+	"ret": true,
+	"data":{
+    "swiperImg": [{
+      "id": "0001",
+      "imgUrl": "https://goods6.juancdn.com/goods/190319/b/7/5c90661933b0890fbd031fbf_800x800.jpg?imageMogr2/quality/88!/format/jpg"
+    },{
+      "id": "0002",
+      "imgUrl": "https://goods1.juancdn.com/goods/190319/0/8/5c90662bb6f8ea6dfb256811_800x800.jpg?iopcmd=convert&Q=88&dst=jpg"
+    },{
+      "id": "0003",
+      "imgUrl": "https://goods3.juancdn.com/goods/190319/4/6/5c9066aa33b0892c60555394_800x800.jpg?iopcmd=convert&Q=88&dst=jpg"
+    },{
+      "id": "0004",
+      "imgUrl": "https://goods1.juancdn.com/goods/190319/1/0/5c9066a433b0892fad36601f_800x800.jpg?iopcmd=convert&Q=88&dst=jpg"
+    },{
+      "id": "0005",
+      "imgUrl": "https://goods4.juancdn.com/goods/190319/6/6/5c9066a8b6f8ea5d1a7fdd34_800x800.jpg?imageMogr2/quality/88!/format/jpg"
+    },{
+      "id": "0006",
+      "imgUrl": "https://goods3.juancdn.com/goods/190319/5/3/5c9066a233b0894d1d37c782_800x800.jpg?iopcmd=convert&Q=88&dst=jpg"
+    }],
+    "shangpin": [{
+      "id":"1",
+      "title": "南极人纯棉睡衣短袖",
+			"price": "49.9",
+			"oldprice": "99",
+			"postage": "包邮",
+			"amount": "1659"
+    }],
+    "dianpu": [{
+      "id": "1",
+      "shopName": "南极人纤缘专营店",
+      "quantity": "94",
+      "img": "https://goods7.juancdn.com/seller/180316/d/6/5aab30308150a102b60592d2_180x90.png?iopcmd=convert&Q=88&dst=png"
+    }]
+		}
+	  }

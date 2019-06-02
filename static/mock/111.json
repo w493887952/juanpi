@@ -1,0 +1,35 @@
+{
+	"ret": true,
+	"data":{
+		"swiperImg": [{
+			"id": 1,
+			"sImg": [
+				{
+					"img": "https://goods6.juancdn.com/goods/190319/b/7/5c90661933b0890fbd031fbf_800x800.jpg?imageMogr2/quality/88!/format/jpg"
+				},{
+					"img": "https://goods6.juancdn.com/goods/190319/b/7/5c90661933b0890fbd031fbf_800x800.jpg?imageMogr2/quality/88!/format/jpg"
+				},{
+					"img": "https://goods6.juancdn.com/goods/190319/b/7/5c90661933b0890fbd031fbf_800x800.jpg?imageMogr2/quality/88!/format/jpg"
+				},{
+					"img": "https://goods6.juancdn.com/goods/190319/b/7/5c90661933b0890fbd031fbf_800x800.jpg?imageMogr2/quality/88!/format/jpg"
+				},{
+					"img": "https://goods6.juancdn.com/goods/190319/b/7/5c90661933b0890fbd031fbf_800x800.jpg?imageMogr2/quality/88!/format/jpg"
+				},{
+					"img": "https://goods6.juancdn.com/goods/190319/b/7/5c90661933b0890fbd031fbf_800x800.jpg?imageMogr2/quality/88!/format/jpg"
+				}
+			],
+			"title": "南极人纯棉睡衣短袖",
+			"price": "49.9",
+			"oldprice": "99",
+			"postage": "包邮",
+			"amount": "1659",
+			"shopName": "南极人纤缘专营店",
+			"quantity": "94",
+			"site": "广东广州",
+			"express": "圆通速递",
+			"mark": "8016",
+			"freight": "全国包邮(偏远地区除外)",
+			"sex": "女"
+			}]
+		}
+	  }
